@@ -1,0 +1,16 @@
+/Users/joellegg/workspace/c-sharp/test/bin/Debug/netcoreapp1.1/test.deps.json
+/Users/joellegg/workspace/c-sharp/test/bin/Debug/netcoreapp1.1/test.runtimeconfig.json
+/Users/joellegg/workspace/c-sharp/test/bin/Debug/netcoreapp1.1/test.runtimeconfig.dev.json
+/Users/joellegg/workspace/c-sharp/test/bin/Debug/netcoreapp1.1/test.dll
+/Users/joellegg/workspace/c-sharp/test/bin/Debug/netcoreapp1.1/test.pdb
+/Users/joellegg/workspace/c-sharp/test/obj/Debug/netcoreapp1.1/test.AssemblyInfo.cs
+/Users/joellegg/workspace/c-sharp/test/obj/Debug/netcoreapp1.1/test.dll
+/Users/joellegg/workspace/c-sharp/test/obj/Debug/netcoreapp1.1/test.pdb
+/Users/joellegg/workspace/c-sharp/hello-world/bin/Debug/netcoreapp1.1/test.deps.json
+/Users/joellegg/workspace/c-sharp/hello-world/bin/Debug/netcoreapp1.1/test.runtimeconfig.json
+/Users/joellegg/workspace/c-sharp/hello-world/bin/Debug/netcoreapp1.1/test.runtimeconfig.dev.json
+/Users/joellegg/workspace/c-sharp/hello-world/bin/Debug/netcoreapp1.1/test.dll
+/Users/joellegg/workspace/c-sharp/hello-world/bin/Debug/netcoreapp1.1/test.pdb
+/Users/joellegg/workspace/c-sharp/hello-world/obj/Debug/netcoreapp1.1/test.AssemblyInfo.cs
+/Users/joellegg/workspace/c-sharp/hello-world/obj/Debug/netcoreapp1.1/test.dll
+/Users/joellegg/workspace/c-sharp/hello-world/obj/Debug/netcoreapp1.1/test.pdb
